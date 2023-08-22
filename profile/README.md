@@ -1,6 +1,8 @@
 # GameSup
 
-GameSup is a place created by SuperGames- where you can download the games created by SuperGames-
+GameSup is a webiste developed by SuperGames- where you can download many fun games.
+
+[Visit the Website!](https://gamesupd.github.io)
 
 
 
